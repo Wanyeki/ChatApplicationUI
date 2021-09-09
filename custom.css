@@ -7,6 +7,10 @@ body{
     background: linear-gradient(#3F4161,#1F223C);
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
+.batton{
+    background:#fff
+}
 .back-btn{
     border:0;
     color:#fff;
